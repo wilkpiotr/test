@@ -1,0 +1,2 @@
+Plik szósty w folderze drugim w gałęzi master
+
