@@ -1,2 +1,4 @@
 Pierwsza miana w gałęzi develop
 druga zmiana w gałęzi develop
+czwarta zmianna - branch develop
+
