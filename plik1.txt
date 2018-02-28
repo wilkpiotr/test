@@ -1,1 +1,1 @@
-plik pierwszy na gałęzi master
+Pierwsza miana w gałęzi develop
