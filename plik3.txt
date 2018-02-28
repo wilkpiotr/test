@@ -1,1 +1,2 @@
 plik treci na gałęzi master
+Piata zmiana na branch develop
