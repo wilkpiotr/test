@@ -1,3 +1,7 @@
 Pierwsza miana w gałęzi develop
 druga zmiana w gałęzi develop
+
 Trzecia zmiana na branchu master teraz
+czwarta zmianna - branch develop
+
+
